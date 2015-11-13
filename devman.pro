@@ -21,14 +21,5 @@ FORMS    += mainwindow.ui
 
 LIBS     += -lsetupapi
 
-DISTFILES += \
-    eye.svg \
-    eye-with-line.svg \
-    install.svg \
-    laptop.svg \
-    uninstall.svg \
-    re_enum.svg \
-    info-with-circle.svg
-
 RESOURCES += \
     res-icons.qrc
