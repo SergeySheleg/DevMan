@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/state">
+        <file>icons/state/hasProblem.svg</file>
+        <file>icons/state/isDisabled.svg</file>
+        <file>icons/state/isGood.svg</file>
+        <file>icons/state/isNotPlugged.svg</file>
+    </qresource>
+    <qresource prefix="/classes">
+        <file>icons/classes/AudioEndpoint.svg</file>
+        <file>icons/classes/Battery.svg</file>
+        <file>icons/classes/CDROM.svg</file>
+        <file>icons/classes/Computer.svg</file>
+        <file>icons/classes/Display.svg</file>
+        <file>icons/classes/HIDClass.svg</file>
+        <file>icons/classes/Image.svg</file>
+        <file>icons/classes/Keyboard.svg</file>
+        <file>icons/classes/MEDIA.svg</file>
+        <file>icons/classes/Monitor.svg</file>
+        <file>icons/classes/Mouse.svg</file>
+        <file>icons/classes/MTD.svg</file>
+        <file>icons/classes/Net.svg</file>
+        <file>icons/classes/PrintQueue.svg</file>
+        <file>icons/classes/Sensor.svg</file>
+        <file>icons/classes/SoftwareDevice.svg</file>
+        <file>icons/classes/System.svg</file>
+        <file>icons/classes/Volume.svg</file>
+        <file>icons/classes/VolumeSnapshot.svg</file>
+        <file>icons/classes/WPD.svg</file>
+        <file>icons/classes/NO_CLASS.svg</file>
+        <file>icons/classes/DiskDrive.svg</file>
+        <file>icons/classes/SCSIAdapter.svg</file>
+        <file>icons/classes/USBDevice.svg</file>
+        <file>icons/classes/USB.svg</file>
+        <file>icons/classes/Bluetooth.svg</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>icons/ui/eye.svg</file>
+        <file>icons/ui/eye-with-line.svg</file>
+        <file>icons/ui/info-with-circle.svg</file>
+        <file>icons/ui/install.svg</file>
+        <file>icons/ui/laptop.svg</file>
+        <file>icons/ui/re_enum.svg</file>
+        <file>icons/ui/uninstall.svg</file>
+    </qresource>
+</RCC>
