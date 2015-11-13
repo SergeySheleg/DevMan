@@ -1,0 +1,5 @@
+LIBRARY   CM_Notific_dll
+EXPORTS
+   Init_DeviceInterface_Notification @1
+   Register_DeviceInterface_Notification @2
+   Unregister_DeviceInterface_Notification @3
